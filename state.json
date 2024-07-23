@@ -1,0 +1,1 @@
+{"moreConfirm.json":{"id":"moreConfirm","repository":"https://github.com/amsyarasyiq/dendam.git","commit":"d2542dc4863c2d99b25d7342064c328352cf3627","command":"pnpm i --recursive && pnpm build --release moreConfirm"}}
