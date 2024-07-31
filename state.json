@@ -1,1 +1,1 @@
-{"moreConfirm":{"id":"moreConfirm","repository":"https://github.com/amsyarasyiq/dendam.git","commit":"d2542dc4863c2d99b25d7342064c328352cf3627","command":"pnpm i --recursive && pnpm build --release moreConfirm"}}
+{"pylix.moreconfirm":{"id":"pylix.moreconfirm","repository":"https://github.com/amsyarasyiq/dendam.git","commit":"7b152fc99a496f50f5015ba04d53c503d8629ede","command":"pnpm i --recursive && pnpm build --release more-confirm"}}
