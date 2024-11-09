@@ -1,1 +1,0 @@
-var plugin=function(n,o){"use strict";var e=()=>n.jsx(o.Text,{variant:"display-lg",children:"Hello, world!"}),l=definePlugin({start:()=>{console.log("Hello world!")},stop:()=>{console.log("Goodbye, world.")},SettingsComponent:e});return l}(bunny._jsx,bunny.metro.common.components);
